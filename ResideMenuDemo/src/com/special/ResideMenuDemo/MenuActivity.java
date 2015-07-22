@@ -44,10 +44,10 @@ public class MenuActivity extends FragmentActivity implements View.OnClickListen
         resideMenu.setScaleValue(0.6f);
 
         // create menu items;
-        itemHome     = new ResideMenuItem(this, R.drawable.icon_home,     "Home");
-        itemProfile  = new ResideMenuItem(this, R.drawable.icon_profile,  "Profile");
-        itemCalendar = new ResideMenuItem(this, R.drawable.icon_calendar, "Calendar");
-        itemSettings = new ResideMenuItem(this, R.drawable.icon_settings, "Settings");
+        itemHome     = new ResideMenuItem(this, R.drawable.map,     "Home");
+        itemProfile  = new ResideMenuItem(this, R.drawable.profile,  "Profile");
+        itemCalendar = new ResideMenuItem(this, R.drawable.friends, "Calendar");
+        itemSettings = new ResideMenuItem(this, R.drawable.settings, "Settings");
         itemRank = new ResideMenuItem(this, R.drawable.crown2, "Rank");
 
         itemHome.setOnClickListener(this);
@@ -58,8 +58,8 @@ public class MenuActivity extends FragmentActivity implements View.OnClickListen
 
         resideMenu.addMenuItem(itemHome, ResideMenu.DIRECTION_LEFT);
         resideMenu.addMenuItem(itemProfile, ResideMenu.DIRECTION_LEFT);
-        resideMenu.addMenuItem(itemCalendar, ResideMenu.DIRECTION_RIGHT);
-        resideMenu.addMenuItem(itemSettings, ResideMenu.DIRECTION_RIGHT);
+        resideMenu.addMenuItem(itemCalendar, ResideMenu.DIRECTION_LEFT);
+        resideMenu.addMenuItem(itemSettings, ResideMenu.DIRECTION_LEFT);
         resideMenu.addMenuItem(itemRank, ResideMenu.DIRECTION_LEFT);
 
         // You can disable a direction by setting ->

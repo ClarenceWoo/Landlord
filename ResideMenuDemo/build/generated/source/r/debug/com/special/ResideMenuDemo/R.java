@@ -17,18 +17,22 @@ public final class R {
         public static final int crown=0x7f020003;
         public static final int crown2=0x7f020004;
         public static final int frame=0x7f020005;
-        public static final int gesture=0x7f020006;
-        public static final int ic_launcher=0x7f020007;
-        public static final int icon_calendar=0x7f020008;
-        public static final int icon_home=0x7f020009;
-        public static final int icon_profile=0x7f02000a;
-        public static final int icon_settings=0x7f02000b;
-        public static final int menu_background=0x7f02000c;
-        public static final int rank_glyphicons_crown=0x7f02000d;
-        public static final int shadow=0x7f02000e;
-        public static final int title_bar_menu=0x7f02000f;
-        public static final int title_bar_menu_on=0x7f020010;
-        public static final int titlebar_menu_selector=0x7f020011;
+        public static final int friends=0x7f020006;
+        public static final int gesture=0x7f020007;
+        public static final int ic_launcher=0x7f020008;
+        public static final int icon_calendar=0x7f020009;
+        public static final int icon_home=0x7f02000a;
+        public static final int icon_profile=0x7f02000b;
+        public static final int icon_settings=0x7f02000c;
+        public static final int map=0x7f02000d;
+        public static final int menu_background=0x7f02000e;
+        public static final int profile=0x7f02000f;
+        public static final int rank_glyphicons_crown=0x7f020010;
+        public static final int settings=0x7f020011;
+        public static final int shadow=0x7f020012;
+        public static final int title_bar_menu=0x7f020013;
+        public static final int title_bar_menu_on=0x7f020014;
+        public static final int titlebar_menu_selector=0x7f020015;
     }
     public static final class id {
         public static final int btn_open_menu=0x7f060004;
