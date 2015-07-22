@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\3-2\NUSsummer\course\mobile\AndroidResideMenu\ResideMenuDemo\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="b9c504522d97f64025c387493d3989e52bc617bd">
+        <dex dex="E:\3-2\NUSsummer\course\mobile\AndroidResideMenu\ResideMenuDemo\build\intermediates\pre-dexed\debug\android-support-v4-a1ce03b5413804a5ba3df5601a1323d3f6b95017.jar" />
+    </item>
+    <item
+        jar="E:\3-2\NUSsummer\course\mobile\AndroidResideMenu\ResideMenuDemo\build\intermediates\exploded-aar\AndroidResideMenu\ResideMenu\unspecified\classes.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="57e4d51cc30d43ec66337714e0e1cb26426e5757">
+        <dex dex="E:\3-2\NUSsummer\course\mobile\AndroidResideMenu\ResideMenuDemo\build\intermediates\pre-dexed\debug\classes-ec1e616e28885e2d5a5307e15537882a2302d899.jar" />
+    </item>
+    <item
+        jar="E:\3-2\NUSsummer\course\mobile\AndroidResideMenu\ResideMenuDemo\build\intermediates\exploded-aar\AndroidResideMenu\ResideMenu\unspecified\libs\nineoldandroids-library-2.4.0.jar"
+        jumboMode="true"
+        revision="19.1.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\3-2\NUSsummer\course\mobile\AndroidResideMenu\ResideMenuDemo\build\intermediates\pre-dexed\debug\nineoldandroids-library-2.4.0-d06f2e798ba1a85488b51568852ec0343240ae04.jar" />
+    </item>
+
+</items>
